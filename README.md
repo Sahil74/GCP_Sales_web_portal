@@ -25,3 +25,7 @@
 
 - Data Upload: Authorized users can upload sales data through the web portal, which is then processed and stored in BigQuery automatically.
 - Data Analysis: The data analyst team can directly access the centralized sales data in BigQuery for reporting and visualization.
+
+
+# Visualization
+**Report:** [Download PDF](your-file-name.pdf)
