@@ -28,4 +28,4 @@
 
 
 # Visualization
-**Report:** [Download PDF](Gloabal_sales.pdf)
+**Report:** [PDF](Gloabal_sales.pdf)
